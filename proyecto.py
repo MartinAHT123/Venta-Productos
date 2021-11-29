@@ -1,5 +1,5 @@
-import pymysql
-from flask.helpers import url_for
+#import pymysql
+#from flask.helpers import url_for
 from flask import Flask,render_template,request,redirect,flash
 
 app = Flask(__name__)
