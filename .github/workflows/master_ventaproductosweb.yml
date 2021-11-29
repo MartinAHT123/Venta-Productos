@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'VentaProductosWeb'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AC96086549AA42018E1235E803E25BEF }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1C6D2C022A87489FB43E900AFAAD287B }}
